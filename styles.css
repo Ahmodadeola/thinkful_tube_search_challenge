@@ -93,6 +93,10 @@
 	}
 
 	@media only screen and (min-width: 1000px){
+		body {
+			width: 80%;	
+		}
+		
 		#video {
 			width: 48%;
 			display: inline-block;
