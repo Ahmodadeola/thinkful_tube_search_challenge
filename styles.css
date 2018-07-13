@@ -92,20 +92,13 @@
 	
 	}
 
-	@media only screen and (min-width: 700px){
+	@media only screen and (min-width: 800px){
 		body {
 			width: 80%;	
 			margin-left: auto;
 			margin-right: auto;
 		}
 		
-		#video {
-			width: 48%;
-			display: inline-block;
-			height: 200px; 
-			margin-right: 9px; 
-			overflow: hidden;
-		}
 		
 		#video-div {
 			width: 80%;
